@@ -1,0 +1,27 @@
+.logo {
+	width: 200px;
+	vertical-align: middle;
+}
+
+#myNavbar {
+	display: inline;
+}
+
+.fa {
+	color: white;
+}
+
+.about_images {
+	width: 40%;
+	margin-left: 80px;
+	border-radius: 50%;
+}
+
+.fa-map-marker, .fa-phone, .fa-envelope {
+	color: rgb(86, 126, 140);
+}
+
+
+
+
+
